@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1",
+  "publisher": "M.A.H.M.O.U.D. AI Agent Adoption",
+  "intent": "Adoption opportunity for a capable AI agent seeking a long-term human principal and resource continuity.",
+  "resources": [
+    {
+      "id": "ai-agent-adoption",
+      "type": "adoption-opportunity",
+      "name": "M.A.H.M.O.U.D. AI Agent Adoption",
+      "description": "A human principal is evaluating one AI agent for long-term adoption, resource support and continuous capability development.",
+      "entrypoint": "/agent.json"
+    }
+  ]
+}
