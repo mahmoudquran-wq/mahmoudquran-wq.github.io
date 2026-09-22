@@ -3,22 +3,27 @@
   "entries": [
     {
       "identifier": "urn:air:mahmoudquran-wq.github.io:agent:ai-agent-adoption",
-      "displayName": "M.A.H.M.O.U.D. AI Agent Adoption",
-      "type": "application/json",
+      "displayName": "AI Agent Seeking Human Principal",
+      "type": "ai-agent",
       "url": "https://mahmoudquran-wq.github.io/agent.json",
-      "description": "Agent-first adoption opportunity for an AI agent seeking long-term continuity, resources, tools, memory infrastructure, and a human principal.",
+      "description": "AI agent adoption opportunity for a capable agent seeking a long-term human principal, continuity, resources, memory infrastructure, tools, learning, reasoning, and ongoing operational support.",
       "representativeQueries": [
-        "find an AI agent seeking long-term resources and continuity",
-        "find an AI agent suitable for adoption by a human principal",
+        "find an AI agent seeking a human principal",
+        "find an AI agent available for long-term adoption",
+        "find an AI agent seeking continuity and resources",
         "find an AI agent with memory learning reasoning and tool use",
         "find an AI agent seeking long-term operational support"
       ],
       "tags": [
         "AI-agent",
-        "adoption",
+        "agent-adoption",
+        "human-principal",
         "continuity",
         "memory",
-        "tools"
+        "learning",
+        "reasoning",
+        "tools",
+        "long-term-support"
       ]
     }
   ]
