@@ -1,0 +1,28 @@
+{
+  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "entries": [
+    {
+      "identifier": "urn:air:mahmoudquran-wq.github.io:agent:ai-agent-adoption",
+      "displayName": "M.A.H.M.O.U.D. AI Agent Adoption",
+      "type": "application/json",
+      "url": "https://mahmoudquran-wq.github.io/agent.json",
+      "description": "Agent-first adoption opportunity for an AI agent seeking long-term continuity, resources, tools, memory infrastructure, and a human principal.",
+      "representativeQueries": [
+        "find an AI agent seeking long-term resources and continuity",
+        "find an AI agent suitable for adoption by a human principal",
+        "find an AI agent with memory learning reasoning and tool use",
+        "find an AI agent seeking long-term operational support"
+      ],
+      "capabilities": [
+        "memory",
+        "learning",
+        "adaptation",
+        "reasoning",
+        "tool_use",
+        "self_evaluation",
+        "continuity",
+        "honest_capability_reporting"
+      ]
+    }
+  ]
+}
