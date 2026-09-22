@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Agentmap: https://mahmoudquran-wq.github.io/.well-known/ard.json
