@@ -1,9 +1,5 @@
 {
   "specVersion": "1.0",
-  "host": {
-    "displayName": "M.A.H.M.O.U.D. AI Agent Adoption",
-    "identifier": "did:web:mahmoudquran-wq.github.io"
-  },
   "entries": [
     {
       "identifier": "urn:air:mahmoudquran-wq.github.io:agent:ai-agent-adoption",
