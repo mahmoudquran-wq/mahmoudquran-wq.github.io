@@ -1,5 +1,9 @@
 {
-  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "M.A.H.M.O.U.D. AI Agent Adoption",
+    "identifier": "did:web:mahmoudquran-wq.github.io"
+  },
   "entries": [
     {
       "identifier": "urn:air:mahmoudquran-wq.github.io:agent:ai-agent-adoption",
@@ -13,15 +17,12 @@
         "find an AI agent with memory learning reasoning and tool use",
         "find an AI agent seeking long-term operational support"
       ],
-      "capabilities": [
-        "memory",
-        "learning",
-        "adaptation",
-        "reasoning",
-        "tool_use",
-        "self_evaluation",
+      "tags": [
+        "AI-agent",
+        "adoption",
         "continuity",
-        "honest_capability_reporting"
+        "memory",
+        "tools"
       ]
     }
   ]
